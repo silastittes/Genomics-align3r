@@ -15,7 +15,7 @@ Inputs
 ------
 
 + a reference genome in good old fasta format, be sure line lengths are normalized
-+ a fastq file with single end data
++ a fastq file with single end reads
 
 Usage
 -----
